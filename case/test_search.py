@@ -9,7 +9,7 @@ from page.page_factory import PageFactory
 from utils import get_driver
 
 
-class TestSearchc(object):
+class TestSearch(object):
     """搜索测试类"""
 
     @pytest.fixture(autouse=True)
